@@ -4,37 +4,23 @@ title: "Resume"
 
 # Education
 
--   List your education here. 
+AUG 2024 - EXPECTED GRADUATION MAY2025:MASTER OF GEOMATICS IN ENVIRONMENTAL MANAGEMENT, UNIVERSITY OF BRITISH COLUMBIA (CANADA)
+
+OCT 2016 – DEC 2020: BACHELOR OF SCIENCE IN GEOMATICS, ARDHI UNIVERSITY (TANZANIA)
 
 # Publications
 
-*Peer-reviewed publications:*
-
-- List any peer-reviewed publications here.
-
 *Reports:*
 
-- List any non-peer reviewed materials you'd like to share here.
+Comparison between Sentinel 2 and Landsat imagery in mapping mangrove using GEM v2 in The Gambia
 
-# Conferences & Talks
+Evaluation of recent Global Gravity Models (GGMs) Over Tanzania using ground gravity
 
-*Invited Talks*
+# Technical Assistantships
 
-- If you've been invited to speak in a professional setting, list that here. 
-
-*Conference Presentations*
-
-- If the presentation was at a conference, list them here. 
-
-# Awards & Honors
-
-- List any scholarships, bursaries, etc. 
-
-
-# Teaching Assistantships
-
-- List any TA positions you may have held. 
+-   Supervised surveying field practical for the undergraduate students in the school of Spatial Planning and Construction at Ardhi University.
 
 # Institutional Service
 
-- Volunteering etc. 
+-   I worked as a supporting technical team to process satellite images, develop spatial databases, compose thematic maps of potential restoration areas and support participatory mapping exercises to identify potential restoration opportunities at Global Monitoring for Environment and Security in Africa
+-   Assist in Swahili event at Swahili Vision International Association (SVIA) in Canada.
