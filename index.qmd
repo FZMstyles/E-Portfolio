@@ -10,17 +10,20 @@ about:
       href: https://www.linkedin.com/in/ramon-melser-666932129/
     - icon: twitter
       text: Twitter/X
-      href: https://x.com/MelserRamon
+      href: https://x.com/Turo_lov
     - icon: github
       text: GitHub
-      href: https://github.com/ramonmelser
+      href: https://github.com/FZMstyles
     - icon: envelope-at
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:fmituro@student.ubc.ca
 ---
 
 Hey there,
 
-I’m a Geomatics professional with a passion for using geospatial technology to address environmental challenges. Currently pursuing a Master’s in Geomatics for Environmental Management (MGEM) at UBC, I’ve been building skills in GIS, remote sensing, and geospatial data analysis.
+I am currently pursuing a Master of Geomatics for Environmental Management (MGEM), leveraging remote sensing and geospatial technologies to support environmental conservation. My passion for this field is deeply rooted in the belief that we must give back to our communities and the natural world.
 
-I enjoy working on projects that apply geospatial tools in innovative ways, like mapping mangroves with Sentinel-2 imagery or creating predictive models to support conservation efforts. My work focuses on leveraging geospatial technology to make a tangible difference in environmental sustainability and resource management.
+A guiding principle in my journey comes from my late grandfather’s words:
+"Those who receive privilege have the duty to return for the sacrifice of others."
+
+The environment belongs to all species, and safeguarding our rich natural heritage is a priority. Geospatial technology is a powerful tool to address this crucial agenda, enabling us to better understand, monitor, and protect ecosystems for future generations. Through this e-portfolio, I aim to showcase my work and contributions toward this mission.
