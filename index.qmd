@@ -5,9 +5,6 @@ about:
   template: trestles
   image-width: 20em
   links: 
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
     - icon: twitter
       text: Twitter/X
       href: https://x.com/Turo_lov
