@@ -44,9 +44,7 @@ For a **full-screen experience**, click [here](https://fmituro.projects.eartheng
 
 ------------------------------------------------------------------------
 
-## **Remote Sensing for Ecosystem Management**
-
-### **Reflection on Remote Sensing Skills Acquired**
+## **REMOTE SENSING FOR ECOSYSTEM MANAGEMENT**
 
 Through GEM 520 - Remote Sensing for Ecosystem Management, I have gained a deep understanding of remote sensing principles and practical applications in environmental analysis. Working with satellite imagery, spectral indices, and classification techniques has enhanced my ability to analyze land cover changes and ecosystem dynamics.
 
